@@ -4,7 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://www.clemslockandkey.com/locksmith-wyomissing-pa">
+  <meta name="google-site-verification" content="-8ImiXr9TDZwk0rBM9M5J1Gy-G8G3qX10Wlvcfg5Nfs" />
+  <link rel="canonical" href="https://locksmith-wyomissing-pa-f4140f147c06.herokuapp.com/">
   <title>Locksmith Wyomissing PA: Fast & Reliable 24/7 Service</title>
   <style>
     * {
